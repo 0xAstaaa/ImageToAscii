@@ -24,5 +24,3 @@ Examples
 ```
 <img width="1720" height="959" alt="image" src="https://github.com/user-attachments/assets/308643d1-f11a-4e32-bc4d-c892807f7c19" />
 
-License
-MIT
